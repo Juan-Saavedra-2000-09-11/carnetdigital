@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">carnet</string>
+    <string name="main_nombres_y_apellidos">Full Name:</string>
+    <string name="main_especialidad">Especialty:</string>
+</resources>
